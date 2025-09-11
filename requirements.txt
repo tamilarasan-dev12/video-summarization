@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+moviepy
+openai-whisper
+transformers
+torch
+numpy
+scikit-learn
+python-multipart
+sentence-transformers
