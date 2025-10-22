@@ -1,0 +1,50 @@
+﻿# Bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+.venv/
+.venv312/
+env/
+venv/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env
+.env
+.env.*
+
+# Logs / coverage / build
+*.log
+logs/
+.pytest_cache/
+.coverage*
+htmlcov/
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# App data
+uploads/
+static/
+tmp/
+temp/
+data/
+
+# ML/models
+models/
+checkpoints/
+*.pt
+*.bin
+*.ckpt
+
+# HF caches
+huggingface/
+transformers_cache/
